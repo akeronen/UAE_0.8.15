@@ -1,3 +1,12 @@
+Public download link here:
+http://download.haage-partner.de/Amiga/AmigaXL/amigaxl-uae-source.tgz
+Working download link and its archive can be found here (checked 28.11.2021):
+https://web.archive.org/web/20071222082612/http://download.haage-partner.de/Amiga/AmigaXL/amigaxl-uae-source.tgz
+
+
+
+
+
 # UAE_0.8.15
 
 This is version 0.8.15 of UAE, the Un*x Amiga Emulator.
